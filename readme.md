@@ -4,7 +4,7 @@
 Greetings ,I'm Guru vikram ,<strong>I'm studying B.E in Computer and Communication Engineering</strong> from Sri Eshwar College of Engineering ,Coimbatore.
  
 
-A Glimpse of information about me :-
+### A Glimpse of information about me :- ###
 -  Iam freshly working on web devolopement;
 -  Intrested and also learning Python Basics ;
 -  I would like to collaborate on Python and frontend web devolopement ;
