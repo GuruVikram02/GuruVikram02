@@ -16,7 +16,7 @@
 
 - Photography📸
 - Videography🎥
-- Cooking👨🏻‍🍳
+- Cooking👨
 
 
 
