@@ -1,4 +1,4 @@
-## Hola! your'e most welcome to my page ❤ <img src=https://github.com/rohan-cce/rohan-cce/blob/master/files/website.gif width="25px"> ##
+## Hola! your'e most welcome to my page ❤ <img align="Right" src=https://prod-discovery.edx-cdn.org/media/course/image/7d3a556d-aa55-41cb-8819-231944e470fa-1c7763e71469.small.jpg width="100px"> ##
 
 
 <italic>Greetings ,I'm Guru vikram ,<strong>I'm studying B.E in Computer and Communication Engineering</strong> from Sri Eshwar College of Engineering ,Coimbatore.</italic>
