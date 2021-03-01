@@ -5,7 +5,7 @@
  
 
 ### A Glimpse of information about me :- ###
--  Iam freshly working on web devolopement.
+-  Iam freshly working on web development.
 -  Intrested and also learning Python Basics.
 -  I would like to collaborate on Python and frontend web devolopement. 
 -  I’m looking for help with Webdev ,IOT,Machine learing and python. 
