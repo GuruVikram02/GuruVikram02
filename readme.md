@@ -1,4 +1,4 @@
-## Hola! your'e most welcome to my page 🤍 <img align="right" src=https://github.com/GuruVikram02/GuruVikram02/blob/master/Image/git%20ui.gif width="300px"> ##
+## Hola! your'e most welcome to my page ♥️ <img align="right" src=https://github.com/GuruVikram02/GuruVikram02/blob/master/Image/git%20ui.gif width="300px"> ##
 
 
 <italic>Greetings ,I'm Guru vikram ,<strong>I'm studying B.E in Computer and Communication Engineering</strong> from Sri Eshwar College of Engineering ,Coimbatore.</italic>
@@ -11,6 +11,13 @@
 -  I’m looking for help with Webdev ,IOT,Machine learing and python. 
 -  Any thing you think i can adopt, ready to accept your suggestions.
 -  mail me at: guru.vikram.399@gmail.com
+
+<h3>My Hobbies</h3>
+
+- Photography📸
+- Videography🎥
+- Cooking👨🏻‍🍳
+
 
 
 <h3>Github Streak ⚡</h3>
