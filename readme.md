@@ -1,4 +1,4 @@
-## Hola! your'e most welcome to my page ❤  ##
+## Hola! your'e most welcome to my page ❤ <img src=https://dribbble.com/shots/4171367-Coding-Freak width="50px"> ##
 
 
 <italic>Greetings ,I'm Guru vikram ,<strong>I'm studying B.E in Computer and Communication Engineering</strong> from Sri Eshwar College of Engineering ,Coimbatore.</italic>
@@ -13,7 +13,7 @@
 -  mail me at: "guru.vikram.399@gmail.com";
 
 
-<h3>**Github Streak ⚡**</h3>
+<h3>Github Streak ⚡</h3>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GuruVikram02&theme=tokyonight)  
 
