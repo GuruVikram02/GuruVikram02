@@ -5,12 +5,12 @@
  
 
 ### A Glimpse of information about me :- ###
--  Iam freshly working on web devolopement;
--  Intrested and also learning Python Basics ;
--  I would like to collaborate on Python and frontend web devolopement ;
--  I’m looking for help with Webdev ,IOT,Machine learing and python;  
--  Any thing you think i can adopt, ready to accept your suggestions;
--  mail me at: "guru.vikram.399@gmail.com";
+-  Iam freshly working on web devolopement.
+-  Intrested and also learning Python Basics.
+-  I would like to collaborate on Python and frontend web devolopement. 
+-  I’m looking for help with Webdev ,IOT,Machine learing and python. 
+-  Any thing you think i can adopt, ready to accept your suggestions.
+-  mail me at: guru.vikram.399@gmail.com
 
 
 <h3>Github Streak ⚡</h3>
