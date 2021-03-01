@@ -1,4 +1,4 @@
-## Hola! your'e most welcome to my page ❤ <img align="right" src=https://github.com/GuruVikram02/GuruVikram02/blob/master/Image/git%20ui.gif width="500px"> ##
+## Hola! your'e most welcome to my page ❤ <img align="right" src=https://github.com/GuruVikram02/GuruVikram02/blob/master/Image/git%20ui.gif width="300px"> ##
 
 
 <italic>Greetings ,I'm Guru vikram ,<strong>I'm studying B.E in Computer and Communication Engineering</strong> from Sri Eshwar College of Engineering ,Coimbatore.</italic>
