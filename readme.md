@@ -8,15 +8,17 @@
 - Java- Oracle SE-08 certified
 - HTML,CSS,BOOTSTRAP
 - JavaScript
-- ReactJs(Basics)
+- TypeScript
+- React
+- PowerBI
 - Data Cleansing(Numpy,Pandas,Matplotlib)
 - Strong communication and Interpersonal skills
 
 ### A Glimpse about me and What am Doing :-
 
 - Iam Currently learning ReactJs.
-- As of now working on Functional Components in React.
-- Once after learning and practicing fundamentals of React Iam going to learn and implement Node Js.
+- As of now learning Redux.
+- Once after learning and practicing fundamentals of React Iam going to learn and implement .
 - And the End Goal is to create an Full Stack E-commerce application using MERN-Stack .
 - Looking For a mentor who can Guide me through this process and open to collaborate.
 
@@ -24,7 +26,7 @@
 
 - Photography📸
 - Videography🎥
-- Solving Rubix cubes
+- Solving Rubix cubes🎮
 - Cooking🥘
 - Travelling ✈️
 
